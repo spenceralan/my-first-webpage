@@ -1,0 +1,14 @@
+body {
+  font-family: Arial;
+  background-color: #99ccff;
+  padding-left: 2em;
+  color: white;
+}
+
+a {
+  color: white;
+}
+
+p, ul {
+  font-size: 125%;
+}

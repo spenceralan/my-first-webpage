@@ -3,12 +3,23 @@ body {
   background-color: #99ccff;
   padding-left: 2em;
   color: white;
+  text-align: left;
 }
 
 a {
   color: white;
+  font-family: monospace;
 }
 
 p, ul {
-  font-size: 125%;
+  font-size: 175%;
+  list-style-position: inside;
+}
+
+h1 {
+  font-size: 70px;
+}
+
+h2 {
+  font-size: 40px;
 }
